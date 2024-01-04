@@ -41,6 +41,11 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
     [11,16,21] // [8,12,22]
     [8,11,12,16,21,22]
 
+Big-O gösterimini yazınız.
+
+    O(nlogn)
+
+
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
                                 7
@@ -52,8 +57,3 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
                          0   3
                             / \
                             2  4
-
-
-Big-O gösterimini yazınız.
-
-    O(nlogn)
